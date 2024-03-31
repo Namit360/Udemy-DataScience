@@ -1,2 +1,2 @@
 # Udemy-DataScience
-Udemy Course Esercises
+Udemy Course Exercises
